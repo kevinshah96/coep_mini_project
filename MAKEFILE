@@ -1,0 +1,10 @@
+main.c:
+skewness.c:
+mean.c:
+median.c:
+mode.c:
+quartilerange.c:
+range.c:
+sd.c:
+sort.c
+
